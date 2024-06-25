@@ -1,5 +1,4 @@
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/material.dart';
+
 import 'package:task_app/core/exceptions/auth/auth_failed_exception.dart';
 import 'package:task_app/core/exceptions/auth/invalid_exception.dart';
 import 'package:task_app/features/authentication/domain/repository/auth_repository.dart';
